@@ -11,7 +11,7 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4)](https://github.com/Chief-dom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4&count_private=true)](https://github.com/Chief-dom/github-readme-stats)
 -->
 <!--
 ![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&theme=radical)
