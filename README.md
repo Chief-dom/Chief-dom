@@ -9,9 +9,10 @@
 
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=2)]
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&layout=compact&hide=python,jupyter%20notebook,TeX,Fortran,c%+%+,html,&langs_count=10&custom_title=Others)]
+<!--
 [![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&hide=prs&count_private=true&include_all_commits=true)]
 <!-- Actual text -->
-<!--
+
 You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/233px-Discord_logo.svg.png 
 [2.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png
