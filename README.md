@@ -17,8 +17,8 @@ You can find me on [![Discord][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://portingdata.com/image_files/tensoraudio_logo.png (twitter icon without padding)
-[2.2]: https://portingdata.com/image_files/linkedin_logo.png (LinkedIn icon without padding)
+[1.2]: https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/233px-Discord_logo.svg.png 
+[2.2]: https://portingdata.com/image_files/linkedin_logo.png 
 
 <!-- Links to your social media accounts -->
 
