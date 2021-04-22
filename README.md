@@ -1,9 +1,9 @@
 
 <a href="https://github.com/Chief-dom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4" />
 </a>
 <a href="https://github.com/Chief-dom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <!--
 <a href="https://github.com/Chief-dom/Predict_Future_Sales">
