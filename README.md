@@ -13,12 +13,12 @@
 
 <!-- Actual text -->
 
-You can find me on [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
 [1.2]: https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/233px-Discord_logo.svg.png 
-[2.2]: https://portingdata.com/image_files/linkedin_logo.png
+[2.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png
 
 <!-- Links to your social media accounts -->
 
