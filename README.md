@@ -6,6 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 -->
+### Spotify Playing 🎧
+[<img src="https://now-playing-Chief-dom.vercel.app/api/spotify-playing" alt="Dominik's Spotify Playing" width="350" />](https://open.spotify.com/user/22okarqslvrgo5yvlkkfvr64a?si=58aaeb3a86604050)
+
 
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=2)]
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&layout=compact&hide=python,jupyter%20notebook,TeX,Fortran,c%+%+,html,&langs_count=10&custom_title=Others)]
