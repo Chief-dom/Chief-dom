@@ -7,7 +7,7 @@
 </a>
 -->
 ### Spotify Playing 🎧
-[<img src="https://now-playing-Chief-dom.vercel.app/api/spotify-playing" alt="Dominik's Spotify Playing" width="350" />](https://open.spotify.com/user/22okarqslvrgo5yvlkkfvr64a?si=58aaeb3a86604050)
+[<img src="https://now-playing-22okarqslvrgo5yvlkkfvr64a.vercel.app/api/spotify-playing" alt="Dominik's Spotify Playing" width="350" />](https://open.spotify.com/user/22okarqslvrgo5yvlkkfvr64a?si=58aaeb3a86604050)
 
 
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=2)]
