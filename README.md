@@ -5,10 +5,11 @@
 <a href="https://github.com/Chief-dom/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
+Options: &exclude_repo=["Predict_Future_Sales][![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom)]
+Options: &hide=["prs","issues","contribs"]![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&theme=radical)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Chief-dom" frameborder="0"></iframe>
 
-[![Chief-dom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chief-dom)]
+
 <!--
 <a href="https://github.com/Chief-dom/Predict_Future_Sales">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chief-dom&repo=Predict_Future_Sales" />
