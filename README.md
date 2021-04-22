@@ -11,7 +11,19 @@
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&layout=compact&hide=python,jupyter%20notebook&langs_count=10&hide_title=true)]
 [![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&hide=prs&count_private=true&include_all_commits=true)]
 
+<!-- Actual text -->
 
+You can find me on [![Discord][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://portingdata.com/image_files/tensoraudio_logo.png (twitter icon without padding)
+[2.2]: https://portingdata.com/image_files/linkedin_logo.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://discord.gg/tCWFyAHz
+[2]: https://www.linkedin.com/in/dominik-huffield/
 
 
 <!--
