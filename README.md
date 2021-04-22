@@ -22,10 +22,10 @@ You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 --------
 ### Connect with me:
-[<img align="left" height=30 width=30 src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" height=30 width=30 src="https://portingdata.com/image_files/tensoraudio_logo.png" />][website]
-[<img align="left" position=relative width=30 height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
-[<img align="left" position=relative alt=alt width=30 height=30 src="https://portingdata.com/image_files/linkedin_logo.png" />][linkedin]
+[<img display=flex align="left" height=30 width=30 src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img display=flex align="left" height=30 width=30 src="https://portingdata.com/image_files/tensoraudio_logo.png" />][website]
+[<img display=flex align="left" position=relative width=30 height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
+[<img display=flex align="left" position=relative alt=alt width=30 height=30 src="https://portingdata.com/image_files/linkedin_logo.png" />][linkedin]
 
 [portfolio]: https://tensoraudio.com/
 [website]: https://portingdata.com/
