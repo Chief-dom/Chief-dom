@@ -6,6 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 -->
+[![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&compact=true&exclude_repo=Predict_Future_Sales)]
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=3&exclude_repo=Predict_Future_Sales)]
 [![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&hide=prs&count_private=true&include_all_commits=true)]
 
