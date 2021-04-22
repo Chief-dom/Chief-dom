@@ -10,7 +10,11 @@
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=2)]
 [![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&layout=compact&hide=python,jupyter%20notebook&langs_count=10&hide_title=true)]
 [![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&hide=prs&count_private=true&include_all_commits=true)]
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- Actual text -->
 <!--
 You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -21,11 +25,7 @@ You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 -->
 
 --------
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [website]: https://portingdata.com/
