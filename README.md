@@ -23,9 +23,9 @@ You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 --------
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://portingdata.com/image_files/tensoraudio_logo.png" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://portingdata.com/image_files/linkedin_logo.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" height="22px" src="https://portingdata.com/image_files/tensoraudio_logo.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" height="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" height="22px" src="https://portingdata.com/image_files/linkedin_logo.png" />][linkedin]
 
 
 [website]: https://portingdata.com/
