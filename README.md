@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Chief-dom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=8" />
 </a>
 <a href="https://github.com/Chief-dom/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
