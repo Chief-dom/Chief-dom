@@ -1,11 +1,12 @@
-
+<!--
 <a href="https://github.com/Chief-dom/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&langs_count=4" />
 </a>
 <a href="https://github.com/Chief-dom/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
-Options: &exclude_repo=["Predict_Future_Sales"][![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom)]
+-->
+[![Chief-dom's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-dom&exclude_repo=Predict_Future_Sales)]
 
 ![Chief-dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-dom&show_icons=true&hide=prs)
 
