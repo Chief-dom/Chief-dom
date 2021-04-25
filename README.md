@@ -27,8 +27,8 @@ You can find me in server [![Discord][1.2]][1], or on [![LinkedIn][2.2]][2].
 [<img align=left width=30 height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
 [<img align=left width=30 height=30 src="https://portingdata.com/image_files/linkedin_logo.png" />][linkedin]
 
-[portfolio]: https://tensoraudio.com/
-[website]: https://portingdata.com/
+[website]: https://tensoraudio.com/
+[portfolio]: https://portingdata.com/
 [discord]: https://discord.gg/tCWFyAHz
 [linkedin]: https://www.linkedin.com/in/dominik-huffield/
 <!--
