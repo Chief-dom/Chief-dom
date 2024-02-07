@@ -6,19 +6,19 @@
 [<img align=left width=32 height=32 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
 [<img align=left width=30 height=30 src="https://cogentdom.files.wordpress.com/2023/09/linkedin_logo.png" />][linkedin]
 [<img align=left height=37 width=37 src="https://cogentdom.files.wordpress.com/2024/02/medium_logo.png" />][medium]
+[<img align=left height=30 width=30 src="https://cogentdom.files.wordpress.com/2024/02/twitch_logo-1.png" />][twitch]
 [<img aligh=left width=30 height=30 src="https://cogentdom.files.wordpress.com/2023/09/reasearch-gate-logo-3.png" />][research-gate]&emsp;
 [<img aligh=left width=20 height=30 src="https://cogentdom.files.wordpress.com/2023/09/kaggle-logo-1.png" />][kaggle]
 
 <!--
 [<img align=left height=30 width=30 src="https://cogentdom.files.wordpress.com/2024/02/twitter.png" />][twitter]
-[<img align=left height=30 width=30 src="https://cogentdom.files.wordpress.com/2024/02/twitch_logo-1.png" />][twitch]
 [<img align=left height=30 width=30 src="https://cogentdom.files.wordpress.com/2024/02/instagram.png" />][instagram]
 [<img align=left height=30 width=30 src="https://cogentdom.files.wordpress.com/2024/02/tiktok_logo.png" />][tiktok]  
 -->
 
 [website]: https://tensoraudio.com/
 [portfolio]: https://portingdata.com/
-[discord]: https://discord.gg/tCWFyAHz
+[discord]: https://discord.gg/EenBs7mpFb
 [linkedin]: https://www.linkedin.com/in/dominik-huffield/
 [medium]: https://medium.com/@cogentdom
 [research-gate]: https://www.researchgate.net/profile/Dominik-Huffield
