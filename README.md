@@ -22,16 +22,12 @@
 [linkedin]: https://www.linkedin.com/in/dominik-huffield/
 [medium]: https://medium.com/@cogentdom
 [research-gate]: https://www.researchgate.net/profile/Dominik-Huffield
-[kaggle]: https://www.kaggle.com/dominikhuffield/competitions
+[kaggle]: https://www.kaggle.com/dominikhuffield
 [twitter]: https://x.com/cogentdom
 [twitch]: https://twitch.tv/cogentdom
 [instagram]: https://instagram.com/cogentdom
 [tiktok]: https://tiktok.com/@cogentdom
 
-
-[![](https://visitcount.itsvg.in/api?id=cogentdom&icon=0&color=8)](https://visitcount.itsvg.in)
-
--------- 
 --------  
 
 > ##### Operating Systems
@@ -94,5 +90,8 @@
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Styled with Shields (https://shields.io/docs) -->
 <!-- Supported with SimpleIcons (https://simpleicons.org/) -->
+
+
+[![](https://visitcount.itsvg.in/api?id=cogentdom&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ---
