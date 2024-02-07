@@ -23,8 +23,8 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
 ##### Languages
-![Python](https://img.shields.io/badge/python-yellow?logo=python)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-7_years-gray?style=flat-square&logo=python&labelColor=f6c94d)
+![Java](https://img.shields.io/badge/Java-2_years-gray?style=flat-square&logo=openjdk&labelColor=f6971a)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -72,6 +72,7 @@
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Styled with Shields (https://shields.io/docs) -->
+<!-- Supported with SimpleIcons (https://simpleicons.org/) -->
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EenBs7mpFb) 
