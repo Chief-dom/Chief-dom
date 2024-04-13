@@ -35,12 +35,10 @@
 >> [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 >
 >##### Languages
->> ![Python](https://img.shields.io/badge/Python-7_years-gray?style=flat-square&logo=python&labelColor=f6c94d)
->> ![Java](https://img.shields.io/badge/Java-2_years-gray?style=flat-square&logo=openjdk&labelColor=f6971a)
+>> ![Python](https://img.shields.io/badge/Python-8_years-gray?style=flat-square&logo=python&labelColor=f6c94d)
+>> ![Java](https://img.shields.io/badge/Java-2_years-gray?style=flat-square&logo=openjdk&logoColor=fd9833&labelColor=49819f) 
+>> ![Swift](https://img.shields.io/badge/Swift-1_year-gray?style=flat-square&logo=swift&logoColor=white&labelColor=c1392c) 
 >> 
->> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
->> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
->> ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 >> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 >> ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 >> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
